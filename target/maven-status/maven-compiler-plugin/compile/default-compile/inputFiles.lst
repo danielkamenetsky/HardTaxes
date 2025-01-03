@@ -1,4 +1,5 @@
 /Users/danielkamenetsky/Documents/Github/hardtaxes/src/main/java/com/hardtaxes/models/Transaction.java
+/Users/danielkamenetsky/Documents/Github/hardtaxes/src/main/java/com/hardtaxes/models/CEXTransaction.java
 /Users/danielkamenetsky/Documents/Github/hardtaxes/src/main/java/com/hardtaxes/models/Wallet.java
 /Users/danielkamenetsky/Documents/Github/hardtaxes/src/main/java/com/hardtaxes/App.java
-/Users/danielkamenetsky/Documents/Github/hardtaxes/src/main/java/com/hardtaxes/models/CryptoTransaction.java
+/Users/danielkamenetsky/Documents/Github/hardtaxes/src/main/java/com/hardtaxes/parsers/PhemexCSVParser.java

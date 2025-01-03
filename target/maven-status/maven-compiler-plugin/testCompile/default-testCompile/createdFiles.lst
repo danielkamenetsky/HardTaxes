@@ -1,2 +1,4 @@
 com/hardtaxes/models/TransactionTest.class
+com/hardtaxes/models/CEXTransactionTest.class
+com/hardtaxes/parsers/PhemexCSVParserTest.class
 com/hardtaxes/AppTest.class

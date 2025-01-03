@@ -1,3 +1,5 @@
 com/hardtaxes/models/TransactionType.class
+com/hardtaxes/models/CEXTransaction.class
 com/hardtaxes/App.class
 com/hardtaxes/models/Transaction.class
+com/hardtaxes/parsers/PhemexCSVParser.class

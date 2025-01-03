@@ -2,6 +2,8 @@ package com.hardtaxes.models;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.util.List;
 
 // This class is used to record transactions from the CEX exchanges
 public class CEXTransaction {
@@ -44,6 +46,46 @@ public class CEXTransaction {
     }
     
     // Getters here
+    public String getSymbol() {
+        return symbol;
+    }
+
+    public BigDecimal getRealizedPNL() {
+        return realizedPNL;
+    }
+
+    public BigDecimal getExchangeFee() {
+        return exchangeFee;
+    }
+
+    public BigDecimal getFundingFee() {
+        return fundingFee;
+    }
+
+    public BigDecimal getRoi() {
+        return roi;
+    }
+
+    public LocalDateTime getOpenTime() {
+        return openTime;
+    }
+
+    public LocalDateTime getCloseTime() {
+        return closeTime;
+    }
+
+    public BigDecimal getOpenPrice() {
+        return openPrice;
+    }
+
+    public BigDecimal getClosePrice() {
+        return closePrice;
+    }
+
+    public BigDecimal getTotalSize() {
+        return totalSize;
+    }
+
 
     
 
